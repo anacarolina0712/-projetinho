@@ -1,0 +1,94 @@
+
+/* HEADER */
+.image{
+    width: 70px;
+}
+
+
+
+
+
+/* MAIN */
+
+.titlebody{
+    margin-bottom: 7px;
+    font: 30px;
+    font-family: Amatic SC;
+}
+
+.caixa{
+    display: flex;
+}
+
+
+
+.card title{
+    font-size: 8px;
+    font-family: Amatic SC;
+}
+.card{
+    width: 290px;
+    
+}
+.card-content{
+    background-color: #eeee;
+}
+.card-image{
+    width: 280px;
+}
+
+.btn-3{
+    background-color: white;
+
+    border-radius: 5px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* contedo2 */
+.propaganda{
+    height: 900px;
+    width: 900;
+    background-color: #fbc900;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.patinetes-3{
+    width: 550px;
+}
+.title-propaganda{
+    font-family: Amatic SC;
+    font-size: 36px;
+    
+}
+
+
+
+
+
+/* FOOTER */
+
+
+.page-footer{
+    background-color: #074598;
+}
+.titlefooter{
+    font-size: 28px;
+    color: #FFFF;
+    font-family: Amatic SC;
+}
+.text-cont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #CCCC;
+    font-size: 15px;
+}
+.fundo{
+    background-color: #EE1B2E;
+}
+.logo_branco{
+    width: 190px;
+}
+    
